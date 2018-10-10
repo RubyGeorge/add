@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>Addition</h1>
-<form action="Add">
+<form action="Addition">
 <input type="text" name="no1">
 <input type="button" value="+">
 <input type="text" name="no2">
